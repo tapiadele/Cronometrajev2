@@ -105,9 +105,9 @@ Estados disponibles:
 
 * INSCRIPTO
 * LLEGÓ
-* DNS
-* DNF
-* DSQ
+* NO INICIÓ
+* NO FINALIZÓ
+* DESCALIFICADO
 * SIN TIEMPO
 * CORREGIDO
 
