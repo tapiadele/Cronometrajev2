@@ -105,9 +105,9 @@ Estados disponibles:
 
 * INSCRIPTO
 * LLEGÓ
-* DNS
-* DNF
-* DSQ
+* NO INICIÓ
+* NO FINALIZÓ
+* DESCALIFICADO
 * SIN TIEMPO
 * CORREGIDO
 
@@ -355,26 +355,7 @@ Distancia: 12K
 Categoría: 30 - 34 años
 
 ============================================================
-13. CAPTURAS DE PANTALLA
-============================================================
-
-Agregar capturas de:
-
-* Pantalla principal.
-* Gestión de carreras.
-* Gestión de corredores.
-* Inscripciones.
-* Registro de llegadas.
-* Resultados.
-* Podios.
-* Exportación de reportes.
-
-
-
-![Pantalla Principal](docs/img/principal.png)
-
-============================================================
-14. MEJORAS FUTURAS
+13. MEJORAS FUTURAS
 ============================================================
 
 * Cronometraje en tiempo real.
@@ -386,7 +367,7 @@ Agregar capturas de:
 * Dashboard de métricas y rendimiento.
 
 ============================================================
-15. VIDEO DEMOSTRATIVO
+14. VIDEO DEMOSTRATIVO
 ============================================================
 
 Enlace al video de presentación:
@@ -394,7 +375,7 @@ Enlace al video de presentación:
 https://youtu.be/QurkFpIYpmc
 
 ============================================================
-16. FLUJO GENERAL DEL SISTEMA
+15. FLUJO GENERAL DEL SISTEMA
 ============================================================
 
 Carrera
@@ -416,7 +397,7 @@ Podios
 Exportación de Reportes
 
 ============================================================
-17. ESTADOS DEL SISTEMA
+16. ESTADOS DEL SISTEMA
 ============================================================
 
 ESTADOS DE CARRERA
@@ -431,9 +412,9 @@ ESTADOS DE INSCRIPCIÓN
 
 * INSCRIPTO
 * LLEGÓ
-* DNS (No largó)
-* DNF (No finalizó)
-* DSQ (Descalificado)
+* NO INICIÓ
+* NO FINALIZÓ
+* DESCALIFICADO
 * SIN TIEMPO
 * CORREGIDO
 
@@ -441,13 +422,13 @@ ESTADOS DE INSCRIPCIÓN
 
 TIPOS DE REGISTRO
 
-* AUTOMATICO
+* AUTOMÁTICO
 * MANUAL
 * QR
 * CORREGIDO
 
 ============================================================
-18. CATEGORÍAS ETARIAS
+17. CATEGORÍAS ETARIAS
 ============================================================
 
 * 16 - 19 años
@@ -467,7 +448,7 @@ Las categorías se asignan automáticamente según la edad
 del corredor en la fecha de realización de la carrera.
 
 ============================================================
-19. DISTANCIAS DISPONIBLES
+18. DISTANCIAS DISPONIBLES
 ============================================================
 
 * 6K
@@ -475,24 +456,24 @@ del corredor en la fecha de realización de la carrera.
 * 18K
 
 ============================================================
-20. CRÉDITOS
+19. CRÉDITOS
 ============================================================
 
 Materia:
 Ingeniería de Software
 
 Institución:
-[UNSAdA]
+UNSAdA
 
 Año:
 2026
 
 Autores:
 
-* Deleglise, Luca Agustin
-* Di Palma, Valentina
-* Paccapelo, Braian
-* Lepiscopo, Fernando
-* Rosset, Luciano Valentin
-* Tapia Deleglise, Mateo Gabino
-* Vazquez Camelis, Alejo
+* Deleglise, Luca Agustin.
+* Di Palma, Valentina.
+* Paccapelo, Braian.
+* Lepiscopo, Fernando.
+* Rosset, Luciano Valentin.
+* Tapia Deleglise, Mateo Gabino.
+* Vazquez Camelis, Alejo.
